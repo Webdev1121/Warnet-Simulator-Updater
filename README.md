@@ -2,10 +2,10 @@
 Warnet-Simulator-Updater , Download Warnet Simulator Terbaru!
 
 
-Written in batch (jangan terkecoh dengan Languages [bruh]  )
+-- Written in batch (jangan terkecoh dengan Languages [bruh]  )
 
 
-Menggunakan cURL
+-- Menggunakan cURL
 
 
 **Cara Download** 
