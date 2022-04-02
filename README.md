@@ -2,6 +2,8 @@
 
 *WARNING! GW BUKAN DEVELOPER WARNET SIMULATOR! GW CUMAN BIKIN APLIKASI UPDATER NYA BIAR ANDA GA RIBET PERLU KE ITCH.IO ANDY LUKITO LAGI!* 
 
+**Aplikasi ini open-source, Artinya anda dapat me-modifikasi codingan / yang lain sesuka hati lu.**
+
 -- Written in batch (jangan terkecoh dengan Languages [bruh]  )
 
 -- Menggunakan cURL
@@ -44,7 +46,7 @@
 
 4.Silahkan cek di Desktop Anda, akan ada warnet-new.rar
 
-#**KEYS**
+# **KEYS**
 
 -- CTRL + C = Cancel cURL download
 
