@@ -35,7 +35,7 @@ Warnet-Simulator-Updater , Download Warnet Simulator Terbaru!
 
 5.Silahkan cek di Desktop Anda, akan ada warnet-new.rar
 
-#  *JIKA Warnet Simulator Updater.exe error* 
+# *JIKA Warnet Simulator Updater.exe error* 
 
 1.Buka first.bat terlebih dahulu
 
@@ -44,7 +44,6 @@ Warnet-Simulator-Updater , Download Warnet Simulator Terbaru!
 3.Tunggu Beberapa Menit
 
 4.Silahkan cek di Desktop Anda, akan ada warnet-new.rar
-
 
 **KEYS**
 
