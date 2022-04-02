@@ -2,7 +2,7 @@
 Warnet-Simulator-Updater , Download Warnet Simulator Terbaru!
 
 
-Written in batch (jangan terkecoh dengan Languages + JANGAN BILANG SAYA PINTER PAKE C)
+Written in batch (jangan terkecoh dengan Languages [bruh]  )
 
 
 Menggunakan cURL
