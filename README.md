@@ -4,7 +4,6 @@
 
 -- Written in batch (jangan terkecoh dengan Languages [bruh]  )
 
-
 -- Menggunakan cURL
 
 -- Versi Warnet Akan Di Perbarui Setiap Hari Senin
