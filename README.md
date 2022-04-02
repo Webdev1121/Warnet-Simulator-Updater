@@ -1,5 +1,6 @@
+# *WARNING! GW BUKAN DEVELOPER WARNET SIMULATOR! GW CUMAN BIKIN APLIKASI UPDATER NYA BIAR ANDA GA RIBET PERLU KE ITCH.IO ANDY LUKITO LAGI!* 
+
 # Warnet-Simulator-Updater
-Warnet-Simulator-Updater , Download Warnet Simulator Terbaru!
 
 
 -- Written in batch (jangan terkecoh dengan Languages [bruh]  )
