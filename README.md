@@ -20,6 +20,7 @@
 # **Cara Pakai**
 
 1.Unblock dulu file Warnet Simulator Updater.exe
+
   -Klik kanan Warnet Simulator Updater.exe
   
   -Klik Properties
