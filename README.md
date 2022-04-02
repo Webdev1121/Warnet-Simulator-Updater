@@ -51,3 +51,18 @@
 -- CTRL + C = Cancel cURL download
 
 -- ALT + F4 = (Ya anda sudah tau fungsinya (～￣▽￣)～(～￣▽￣)～)
+
+# **Bug Report**
+
+**Lu bisa bantu gw cariin bug dengan cara :**
+1. DM Ke Discord
+- 1121Developer#3978
+
+2.E-Mail
+-Scoobydeveloper129@gmail.com
+
+
+
+
+
+3. 
