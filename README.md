@@ -8,14 +8,14 @@
 
 -- Versi Warnet Akan Di Perbarui Setiap Hari Senin
 
-**Cara Download** 
+# **Cara Download** 
  1. Ke Release
  2. Klik tags
  3. Klik Assets
  4. Klik " Warnet-Simulator-UpdaterV1.4.dibikin-oleh-bocil-kelas-5-sd.zip "
  5. Done!, tinggal extract file nya dan buka README.TXT Di folder updatewarnet 
 
-**Cara Pakai**
+# **Cara Pakai**
 
 1.Unblock dulu file Warnet Simulator Updater.exe
   -Klik kanan Warnet Simulator Updater.exe
@@ -34,7 +34,7 @@
 
 5.Silahkan cek di Desktop Anda, akan ada warnet-new.rar
 
-# *JIKA Warnet Simulator Updater.exe error* 
+**JIKA Warnet Simulator Updater.exe error** 
 
 1.Buka first.bat terlebih dahulu
 
@@ -44,7 +44,7 @@
 
 4.Silahkan cek di Desktop Anda, akan ada warnet-new.rar
 
-**KEYS**
+#**KEYS**
 
 -- CTRL + C = Cancel cURL download
 
