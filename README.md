@@ -7,6 +7,7 @@ Warnet-Simulator-Updater , Download Warnet Simulator Terbaru!
 
 -- Menggunakan cURL
 
+-- Versi Warnet Akan Di Perbarui Setiap Hari Senin
 
 **Cara Download** 
  1. Ke Release
