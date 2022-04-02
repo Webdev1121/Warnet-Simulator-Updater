@@ -40,7 +40,7 @@
 
 1.Buka first.bat terlebih dahulu
 
-2. Buka updater.bat
+2.Buka updater.bat
 
 3.Tunggu Beberapa Menit
 
@@ -59,4 +59,4 @@
 - 1121Developer#3978
 
 2.E-Mail
--Scoobydeveloper129@gmail.com
+- Scoobydeveloper129@gmail.com
