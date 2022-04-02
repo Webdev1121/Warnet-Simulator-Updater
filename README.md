@@ -27,8 +27,6 @@
   
   -Klik Unblock
   
-  -Coba Jalanin lagi
-  
 2.Buka first.bat terlebih dahulu
 
 3.Buka Warnet Simulator Update.exe
