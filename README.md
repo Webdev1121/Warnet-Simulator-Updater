@@ -18,4 +18,5 @@ Warnet-Simulator-Updater , Download Warnet Simulator Terbaru!
 **KEYS**
 
 -- CTRL + C = Cancel cURL download
+
 -- ALT + F4 = (Ya anda sudah tau fungsinya (～￣▽￣)～(～￣▽￣)～)
