@@ -12,7 +12,10 @@
 
 # **Preview**
 
-![image](https://user-images.githubusercontent.com/95273407/161530596-73cf496a-7731-45ab-8607-4845ad659225.png)
+![image](https://user-images.githubusercontent.com/95273407/161531542-d612d669-a63c-48f0-8f8b-f2c2ceb37066.png)
+
+![image](https://user-images.githubusercontent.com/95273407/161531731-eac40c5a-88b5-4593-a05b-ff3a37cfbe74.png)
+
 
 
 
