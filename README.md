@@ -10,6 +10,12 @@
 
 -- Versi Warnet Akan Di Perbarui Setiap Hari Senin
 
+# **Preview**
+
+![image](https://user-images.githubusercontent.com/95273407/161530596-73cf496a-7731-45ab-8607-4845ad659225.png)
+
+
+
 # **Cara Download** 
  1. Ke Release
  2. Cari versi terbaru
