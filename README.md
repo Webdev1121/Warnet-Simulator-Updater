@@ -14,6 +14,8 @@
 
 ![image](https://user-images.githubusercontent.com/95273407/161531542-d612d669-a63c-48f0-8f8b-f2c2ceb37066.png)
 
+
+
 ![image](https://user-images.githubusercontent.com/95273407/161531731-eac40c5a-88b5-4593-a05b-ff3a37cfbe74.png)
 
 
@@ -28,7 +30,9 @@
 
 # **Cara Pakai**
 
-1.Unblock dulu file Warnet Simulator Updater.exe
+***MATIKAN ANTIVIRUS MU TERLEBIH DAHULU!***
+
+1.Unblock dulu file Warnet Simulator Updater.exe (jika file tidak di block oleh windows defender, lanjut ke step 2) 
 
   -Klik kanan Warnet Simulator Updater.exe
   
