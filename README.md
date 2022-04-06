@@ -45,7 +45,7 @@
  2. Cari versi terbaru
  3. Klik Assets
  4. Klik " Warnet-Simulator-Updaterv1.4.dibikin-oleh-bocil-kelas-5-sd.zip " (nama zip dapat berubah-ubah)
- 5. Done!, tinggal extract file nya dan buka README.TXT Di folder updatewarnet 
+ 5. Done!, tinggal extract file nya dan buka README.TXT Di folder Warnet Simulator Updater 
 
 # **Cara Pakai**
 
