@@ -12,13 +12,13 @@
 
 # **Cara Kerja**
 
-💻=Client
+💻=Lu
 
-📂=Server nya
+📂=Server
 
 -Di sini client akan request warnet-new.rar ke server
 
- client :    woy minta file nya
+ Lu :    woy minta file nya
     
 💻 ==================> 📂
 
