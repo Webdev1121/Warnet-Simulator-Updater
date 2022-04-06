@@ -14,17 +14,20 @@
 
 💻=Client
 
-🗄=Server nya
+📂=Server nya
 
 -Di sini client akan request warnet-new.rar ke server
 
  client :    woy minta file nya
     
-💻 ==================>  🗄 
+💻 ==================> 📂
+
+   <==================
+   
+   server: noh file lu
                       
-    <==================
-    
-    server : nih
+     
+
     
 # **Preview**
 
