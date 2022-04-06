@@ -10,6 +10,22 @@
 
 -- Versi Warnet Akan Di Perbarui Setiap Hari Senin
 
+# **Cara Kerja**
+
+💻=Client
+
+🗄=Server nya
+
+-Di sini client akan request warnet-new.rar ke server
+
+ client :    woy minta file nya
+    
+💻 ==================>  🗄 
+                      
+    <==================
+    
+    server : nih
+    
 # **Preview**
 
 ![image](https://user-images.githubusercontent.com/95273407/161531542-d612d669-a63c-48f0-8f8b-f2c2ceb37066.png)
