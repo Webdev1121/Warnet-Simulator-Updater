@@ -2,6 +2,8 @@
 
 *WARNING! GW BUKAN DEVELOPER WARNET SIMULATOR! GW CUMAN BIKIN APLIKASI UPDATER NYA BIAR ANDA GA RIBET PERLU KE ITCH.IO ANDY LUKITO LAGI!* 
 
+**Anda bisa bikin saya semangat dengan bagikan ini aplikasi ke temen / saudara / adek anda yang suka warnet simulator**
+
 **Aplikasi ini open-source, Artinya anda dapat me-modifikasi codingan / yang lain sesuka hati lu.**
 
 -- Written in batch (jangan terkecoh dengan Languages [bruh]  )
