@@ -1,9 +1,5 @@
 <html>
  <body>
-<?php
-
-session_start();
-header("Location: https://media.githubusercontent.com/media/Webdev1121/Warnet-Simulator-Updater/main/warnet-new.rar");
- ?>
+  <h1>sendirian</h1>
   </body>
   </html>
